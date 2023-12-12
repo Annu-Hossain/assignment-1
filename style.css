@@ -54,17 +54,11 @@ h1 {
 
 }
 
-.food-iteams {
-    display: flex;
-
-
-
-}
 
 .iteam {
 
     margin: 20px;
-    box-shadow: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 5px 5px rgb(241, 211, 40);
 
     border-radius: 10px;
 
@@ -75,9 +69,11 @@ h1 {
 
 }
 
+
 .food-iteams {
     margin-right: 10%;
     margin-left: 10%;
+    padding-bottom: 10%;
 }
 
 .food-iteams img {
@@ -93,5 +89,22 @@ h1 {
     text-align: center;
 
 
+}
 
+
+
+.social-div {
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+    margin: auto;
+}
+
+.social {
+    background-color: rgb(215, 245, 245);
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgb(170, 224, 238);
 }
