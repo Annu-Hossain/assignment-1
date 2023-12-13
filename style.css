@@ -42,7 +42,7 @@ h1 {
 
 }
 
-.half-width img {}
+
 
 
 
@@ -58,7 +58,7 @@ h1 {
 .iteam {
 
     margin: 20px;
-    box-shadow: 5px 5px 5px 5px rgb(241, 211, 40);
+    box-shadow: 5px 5px 5px 5px rgb(173, 167, 139);
 
     border-radius: 10px;
 
@@ -70,6 +70,7 @@ h1 {
 }
 
 
+
 .food-iteams {
     margin-right: 10%;
     margin-left: 10%;
@@ -78,12 +79,13 @@ h1 {
 
 .food-iteams img {
     width: 80%;
-    height: 60%;
+    height: 50%;
     padding: 20px;
 
-
-
 }
+
+
+
 
 .para {
     text-align: center;
